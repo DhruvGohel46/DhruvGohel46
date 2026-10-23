@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:a855f7&height=220&section=header&text=Dhruv%20Gohel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Cybersecurity%20%7C%20Backend%20Development&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4c1d95,50:7c3aed,100:a855f7&height=220&section=header&text=Dhruv%20Gohel&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Science%20%7C%20Cybersecurity%20%7C%20Backend%20Development&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -10,9 +10,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-success?style=for-the-badge&logo=briefcase&logoColor=white&color=9333ea"/>
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-7c3aed?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=DhruvGohel46&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/Open%20to%20Internships-9333ea?style=flat-square&logo=briefcase&logoColor=white&labelColor=1e1b2e"/>
+<img src="https://img.shields.io/badge/B.Tech%20·%20Computer%20Engineering-7c3aed?style=flat-square&logoColor=white&labelColor=1e1b2e"/>
+<img src="https://komarev.com/ghpvc/?username=DhruvGohel46&style=flat-square&color=a855f7&label=Profile+Views"/>
 
 </div>
 
@@ -44,37 +44,23 @@ fun_fact: "Started by coordinating a university tech fest — now I coordinate c
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-6d28d9?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-5b21b6?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-a855f7?style=for-the-badge&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-8b5cf6?style=for-the-badge&logo=postgresql&logoColor=white)
+<p><i>Languages</i></p>
+<img src="https://skillicons.dev/icons?i=py,java,c,js,postgres&theme=dark" />
 
-### Web & Frameworks
-![Flask](https://img.shields.io/badge/Flask-4c1d95?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-6d28d9?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-7c3aed?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-9333ea?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-a855f7?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p><i>Web &amp; Frameworks</i></p>
+<img src="https://skillicons.dev/icons?i=flask,django,react,tailwind,bootstrap&theme=dark" />
 
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6d28d9?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-5b21b6?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_Cloud-7c3aed?style=for-the-badge&logo=oracle&logoColor=white)
+<p><i>Databases &amp; Cloud</i></p>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,oracle&theme=dark" />
 
-### Tools & Security
-![Git](https://img.shields.io/badge/Git-8b5cf6?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-9333ea?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-7c3aed?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows Security](https://img.shields.io/badge/Windows_Internals-6d28d9?style=for-the-badge&logo=windows&logoColor=white)
+<p><i>Tools &amp; Security</i></p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,windows&theme=dark" />
 
 </div>
 
 <br/>
 
-## 📊 <img src="https://readme-typing-svg.demolab.com/?font=Audiowide&weight=400&size=24&duration=1&pause=100000000&color=9333EA&center=false&vCenter=true&width=330&height=35&lines=%E2%80%8AGITHUB+ANALYTICS" alt="GitHub Analytics" valign="middle"/>
+## 📊 <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=26&duration=1&pause=100000000&color=9333EA&center=false&vCenter=true&width=330&height=35&lines=%E2%80%8AGITHUB+ANALYTICS" alt="GitHub Analytics" valign="middle"/>
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=DhruvGohel46&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=c9d1d9&cache_seconds=1800"/>
@@ -93,7 +79,7 @@ fun_fact: "Started by coordinating a university tech fest — now I coordinate c
 
 <br/>
 
-## 🏆 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&weight=400&size=16&duration=1&pause=100000000&color=C084FC&center=false&vCenter=true&width=220&height=35&lines=%E2%80%8ATROPHIES" alt="Trophies" valign="middle"/>
+## 🏆 <img src="https://readme-typing-svg.demolab.com/?font=Sora&weight=700&size=26&duration=1&pause=100000000&color=C084FC&center=false&vCenter=true&width=220&height=35&lines=%E2%80%8ATROPHIES" alt="Trophies" valign="middle"/>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=DhruvGohel46&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10"/>
