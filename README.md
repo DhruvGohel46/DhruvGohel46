@@ -16,9 +16,9 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:4c1d95&height=40&section=header"/>
 
-## 🧭 <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&weight=500&size=26&duration=1&pause=100000000&color=C084FC&center=false&vCenter=true&width=260&height=35&lines=%E2%80%8AABOUT+ME" alt="About Me" valign="middle"/>
+## 🧭 About Me
 
 ```yaml
 whoami: Dhruv Gohel
@@ -40,7 +40,7 @@ fun_fact: "Started by coordinating a university tech fest — now I coordinate c
 
 <br/>
 
-## 🛠️ <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=1&pause=100000000&color=A855F7&center=false&vCenter=true&width=280&height=35&lines=%E2%80%8ATECH+STACK" alt="Tech Stack" valign="middle"/>
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -60,7 +60,7 @@ fun_fact: "Started by coordinating a university tech fest — now I coordinate c
 
 <br/>
 
-## 📊 <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=26&duration=1&pause=100000000&color=9333EA&center=false&vCenter=true&width=330&height=35&lines=%E2%80%8AGITHUB+ANALYTICS" alt="GitHub Analytics" valign="middle"/>
+## 📊 GitHub Analytics
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=DhruvGohel46&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=c9d1d9&cache_seconds=1800"/>
@@ -71,23 +71,19 @@ fun_fact: "Started by coordinating a university tech fest — now I coordinate c
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvGohel46&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&cache_seconds=1800"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvGohel46&hide_border=true&bg_color=0D1117&color=A855F7&line=7C3AED&point=ffffff&area=true&area_color=7C3AED"/>
-</div>
-
-> If any card above shows "Error" instead of your data, open it in a browser tab once directly — these services render on first request and then cache. It can also mean GitHub's API rate limit was hit for that service; it clears within the hour.
+> These cards are generated live by a free third-party service each time your profile loads. If one doesn't appear, refresh the page — GitHub fetches a lot of external images at once on a profile with this many widgets, and one occasionally times out on first load.
 
 <br/>
 
-## 🏆 <img src="https://readme-typing-svg.demolab.com/?font=Sora&weight=700&size=26&duration=1&pause=100000000&color=C084FC&center=false&vCenter=true&width=220&height=35&lines=%E2%80%8ATROPHIES" alt="Trophies" valign="middle"/>
+## 🏆 Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=DhruvGohel46&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10"/>
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:a855f7&height=40&section=header"/>
 
-## 🚀 <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=24&duration=1&pause=100000000&color=A855F7&center=false&vCenter=true&width=360&height=35&lines=%E2%80%8AFEATURED+PROJECTS" alt="Featured Projects" valign="middle"/>
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -137,10 +133,10 @@ End-to-end SAR & optical satellite intelligence pipeline: detects, classifies, a
 </td>
 <td width="50%">
 
-### 🖥️ InfoOS
-<!-- TODO: add a one-line description of what InfoOS does -->
+### 🖥️ InfoOS — Offline-First POS & Store Management
+Zero-latency, 100% offline Electron + React + Flask desktop suite for high-throughput billing, inventory, staff payroll, and real-time analytics — with an autonomous multi-agent AI assistant that proposes actions for human approval before executing.
 
-`JavaScript`
+`Electron` `React` `Flask` `SQLite` `AI Agents`
 
 </td>
 </tr>
@@ -148,7 +144,7 @@ End-to-end SAR & optical satellite intelligence pipeline: detects, classifies, a
 
 <br/>
 
-## 📜 <img src="https://readme-typing-svg.demolab.com/?font=Rajdhani&weight=700&size=28&duration=1&pause=100000000&color=9333EA&center=false&vCenter=true&width=290&height=35&lines=%E2%80%8ACERTIFICATIONS" alt="Certifications" valign="middle"/>
+## 📜 Certifications
 
 <div align="center">
 
@@ -164,7 +160,7 @@ End-to-end SAR & optical satellite intelligence pipeline: detects, classifies, a
 
 <br/>
 
-## 🤝 <img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&weight=700&size=24&duration=1&pause=100000000&color=C084FC&center=false&vCenter=true&width=330&height=35&lines=%E2%80%8ACONNECT+WITH+ME" alt="Connect With Me" valign="middle"/>
+## 🤝 Connect With Me
 
 <div align="center">
 
